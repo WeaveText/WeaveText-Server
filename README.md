@@ -1,4 +1,4 @@
-# Docx-Agent-Server
+# WeaveText-Server
 
 基于 FastAPI 的无状态服务端骨架，提供 `.docx` 模板解析、占位符分析与文档渲染能力。
 
